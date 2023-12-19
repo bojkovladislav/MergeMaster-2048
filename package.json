@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "sass": "^1.69.5"
+  },
+  "scripts": {
+    "scss:watch": "node-sass --watch scss/ -o css/ --output-style compressed"
+  }
+}
