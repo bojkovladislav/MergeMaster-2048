@@ -8,6 +8,8 @@ The 2048 game is a classic puzzle game that involves sliding numbered tiles on a
 
 - You can access a game with this [DEMO_LINK](https://bojkovladislav.github.io/2048-game/)
 
+![Preview](./preview.gif)
+
 ### Features:
 
 1. **Game Grid:**
