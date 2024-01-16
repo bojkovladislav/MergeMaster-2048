@@ -1,12 +1,12 @@
-## 2048 Game in Pure JavaScript
+## MergeMaster 2048 game in Pure JavaScript
 
 ### Overview:
 
-The 2048 game is a classic puzzle game that involves sliding numbered tiles on a grid to combine them and reach the tile with the number 2048. This project implements the 2048 game using pure JavaScript, HTML, and CSS, providing a simple and interactive gaming experience.
+This is a classic puzzle game that involves sliding numbered tiles on a grid to combine them and reach the tile with the number 2048. This project implements the MergeMaster 2048 game using pure JavaScript, HTML, and CSS, providing a simple and interactive gaming experience.
 
 ## DEMO
 
-- You can access a game with this [DEMO_LINK](https://bojkovladislav.github.io/2048-game/)
+- You can access a game with this [DEMO_LINK](https://bojkovladislav.github.io/MergeMaster-2048/)
 
 ![Preview](./preview.gif)
 
